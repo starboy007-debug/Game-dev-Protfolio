@@ -23,6 +23,7 @@
 </template>
 
 <style scoped>
+
 .paragraph {
   max-width: 700px;
   margin-bottom: 20px;
