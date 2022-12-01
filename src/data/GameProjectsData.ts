@@ -1,6 +1,38 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
+    new ProjectData("project-6", "SpeedRacer", "img/projects/SPD7.png", `
+    <div class="paragraph">
+        <strong>SpeedRacer</strong> is a racing game with multiple gamemode including racing, free roam, survival. It is still in development process soon available for windows platform
+        <br/><a target="_blank" href=""></a>.
+    </div>
+    <div class="paragraph center">
+        <iframe class="youtube" src="https://www.youtube.com/watch?v=EUev7bsBEts&t=2s" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="paragraph">
+        Main features :
+        <ul>
+        <li>3D</li>
+        <li>Racing/Free Roam</li>
+        <li>Atmospheric graphics</li>
+        <li>Shooting AI</li>
+        </ul>
+    </div>
+
+    <div class="paragraph">
+    <div class="notice">
+        Windows build available on <a href="" target="_blank">itch.io</a>.
+    </div>
+    </div>
+
+    <div class="paragraph center">
+    <img class="pc-screenshot" src="img/projects/SPD5.png" alt="Singing Addict Screenshot" />
+    <img class="pc-screenshot" src="img/projects/SPD1.png" alt="Singing Addict Screenshot" />
+    <img class="pc-screenshot" src="img/projects/SPD6.png" alt="Singing Addict Screenshot" />
+    <img class="pc-screenshot" src="img/projects/SPD4.png" alt="Singing Addict Screenshot" />
+    </div>
+    `, "#5a78af"),
     new ProjectData("project-1", "HyperBall", "img/projects/HB.jpeg", 
     `
     <div class="paragraph">
@@ -152,38 +184,6 @@ export default [
     <img class="pc-screenshot" src="img/projects/I1.png" alt="Singing Addict Screenshot" />
     <img class="pc-screenshot" src="img/projects/I2.png" alt="Singing Addict Screenshot" />
     <img class="pc-screenshot" src="img/projects/I3.png" alt="Singing Addict Screenshot" />
-    </div>
-    `, "#5a78af"),
-    new ProjectData("project-6", "SpeedRacer", "img/projects/SPD1.png", `
-    <div class="paragraph">
-        <strong>SpeedRacer</strong> is a racing game with multiple gamemode including racing, free roam, survival. It is still in development process soon available for windows platform
-        <br/><a target="_blank" href=""></a>.
-    </div>
-    <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/watch?v=EUev7bsBEts&t=2s" frameborder="0" allowfullscreen></iframe>
-    </div>
-
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>3D</li>
-        <li>Racing/Free Roam</li>
-        <li>Atmospheric graphics</li>
-        <li>Shooting AI</li>
-        </ul>
-    </div>
-
-    <div class="paragraph">
-    <div class="notice">
-        Windows build available on <a href="" target="_blank">itch.io</a>.
-    </div>
-    </div>
-
-    <div class="paragraph center">
-    <img class="pc-screenshot" src="img/projects/SPD.png" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="img/projects/SPD2.png" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="img/projects/SPD3.png" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="img/projects/SPD4.png" alt="Singing Addict Screenshot" />
     </div>
     `, "#5a78af")
 ];

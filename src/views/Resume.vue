@@ -16,7 +16,7 @@
       <br />Besides development, I'm passionate about video games (obviously), and I love cinema, cricket.
 
       <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="d/Pavan.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF </a>
+        <a class="download-link" href="d/Resume.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF </a>
         
         <div style="clear:both"></div>
       </div>
