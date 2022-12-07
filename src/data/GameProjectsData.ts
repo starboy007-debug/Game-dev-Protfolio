@@ -1,9 +1,9 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-6", "SpeedRacer", "img/projects/SPD7.png", `
+    new ProjectData("project-6", "Lightning Bolt", "img/projects/SPD7.png", `
     <div class="paragraph">
-        <strong>SpeedRacer</strong> is a racing game with multiple gamemode including racing, free roam, survival. It is still in development process soon available for windows platform
+        <strong>Lightning Bolt</strong> is a racing game with multiple gamemode including racing, free roam, survival. It is still in development process soon available for windows platform
         <br/><a target="_blank" href=""></a>.
     </div>
     <div class="paragraph center">
@@ -22,7 +22,7 @@ export default [
 
     <div class="paragraph">
     <div class="notice">
-        Windows build available on <a href="" target="_blank">itch.io</a>.
+        Windows build available on <a href="https://starboy007-debug.itch.io/lightningbolt" target="_blank">itch.io</a>.
     </div>
     </div>
 
